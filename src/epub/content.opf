@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-05-17T18:47:27Z</dc:date>
+		<meta property="dcterms:modified">2022-05-17T18:47:27Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,18 +33,18 @@
 		<meta property="term" refines="#subject-1">sh99005572</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">Two young men visit the countryside, one to find a wife, one to avoid one.</dc:description>
+		<dc:description id="description">Two young men visit the countryside: one to find a wife, and the other to avoid one.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/oliver-goldsmith"&gt;Oliver Goldsmith’s&lt;/a&gt; &lt;i&gt;She Stoops to Conquer&lt;/i&gt; stands as one of the few 18th century plays that has stood the test of time. First produced in 1773 in Covent Garden it has been revived many time, once running for 1777 performances in the 1860s.&lt;/p&gt;
-			&lt;p&gt;The events take place of over the course of a single evening in a country house where two young ladies await potential suitors. The young Squire of the household, a prankster and layabout (and intended by the family matriarch for one of the young ladies), sets off a comic chain of mistaken identities and farcical intrigues when he encounters the two potential suitors in a nearby tavern and sends them on to the house believing they are visiting an Inn.&lt;/p&gt;
-			&lt;p&gt;While Goldsmith only wrote one other play, the impact of &lt;i&gt;She Stoops to Conquer&lt;/i&gt; was such that it was heralded as restoring “laughing comedy” to the English stage after decades of sentimentality. It also stands as the origin of the phrase, “Ask me no questions and I’ll tell you no lies.”&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;She Stoops to Conquer&lt;/i&gt; is one of the few 18th century plays that has stood the test of time. First produced in 1773 in Covent Garden, it has been revived many times—once even running for 1,777 performances in the 1860s.&lt;/p&gt;
+			&lt;p&gt;The events take place over the course of a single evening in a country house where two young ladies await potential suitors. The young squire of the household, a prankster and layabout (and intended for one of the young ladies by the family matriarch), sets off a comic chain of mistaken identities and farcical intrigues when he encounters the potential suitors in a nearby tavern, and sends them to the house with the belief that they’re visiting an inn.&lt;/p&gt;
+			&lt;p&gt;The impact of &lt;i&gt;She Stoops to Conquer&lt;/i&gt; was such that it was heralded as restoring “laughing comedy” to the English stage after decades of sentimentality. It also stands as the origin of the phrase, “Ask me no questions and I’ll tell you no lies.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/383</dc:source>
 		<dc:source>https://archive.org/details/shestoopstoconq00goldgoog</dc:source>
-		<meta property="se:production-notes">The epilogues were added from the scans and the text update to also match</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">The epilogues were added from the scans and the text update to also match.</meta>
+		<meta property="se:word-count">24045</meta>
+		<meta property="se:reading-ease.flesch">76.42</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/She_Stoops_to_Conquer</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/oliver-goldsmith_she-stoops-to-conquer</meta>
 		<dc:creator id="author">Oliver Goldsmith</dc:creator>
@@ -53,7 +53,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79121384</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Thomas Gainsborough</dc:contributor>
-		<meta property="file-as" refines="#artist">Gainsborough,Thomas</meta>
+		<meta property="file-as" refines="#artist">Gainsborough, Thomas</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Thomas_Gainsborough</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79055449</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
@@ -73,6 +73,11 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Matt Chan</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Chan, Matt</meta>
+		<meta property="se:name.person.full-name" refines="#producer-2">Matthew Yunho Chan</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/thewchan</meta>
+		<meta property="se:role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
