@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="dedication.xhtml">
+		<ignore>
+			<code>s-046</code>
+			<reason>Spans are necessary for styling the valediction.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

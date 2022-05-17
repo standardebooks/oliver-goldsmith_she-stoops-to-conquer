@@ -89,26 +89,32 @@ footer{
 	text-align: right;
 }
 
-blockquote[epub|type~="z3998:valediction"] p:first-of-type{
+footer p[epub|type~="z3998:valediction"] span{
+	text-align: initial;
+	display: block;
+}
+
+footer p[epub|type~="z3998:valediction"] br{
+	display: none;
+}
+
+footer p[epub|type~="z3998:valediction"] span:nth-of-type(1){
 	padding-left: 2em;
-	text-align: initial;
 	text-indent: -1em;
 }
 
-blockquote[epub|type~="z3998:valediction"] p:nth-child(2){
+footer p[epub|type~="z3998:valediction"] span:nth-of-type(2){
 	padding-left: 3em;
-	text-align: initial;
 	text-indent: -1em;
 }
 
-blockquote[epub|type~="z3998:valediction"] p:nth-child(3){
+footer p[epub|type~="z3998:valediction"] span:nth-of-type(3){
 	padding-left: 4em;
-	text-align: initial;
 	text-indent: -1em;
 }
 
 header{
-	font-variant: all-small-caps;
+	font-variant: small-caps;
 }
 
 [epub|type~="z3998:salutation"] + p{
@@ -151,4 +157,8 @@ p span.i1{
 p span.i3{
 	padding-left: 4em;
 	text-indent: -1em;
+}
+
+[epub|type~="z3998:drama"] header + table{
+	margin-top: 3em;
 }
