@@ -90,8 +90,8 @@ footer{
 }
 
 footer p[epub|type~="z3998:valediction"] span{
-	text-align: initial;
 	display: block;
+	text-align: initial;
 }
 
 footer p[epub|type~="z3998:valediction"] br{
