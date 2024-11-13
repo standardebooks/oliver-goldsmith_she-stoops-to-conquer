@@ -89,26 +89,26 @@ footer{
 	text-align: right;
 }
 
-footer p[epub|type~="z3998:valediction"] span{
+footer p:first-child span{
 	display: block;
 	text-align: initial;
 }
 
-footer p[epub|type~="z3998:valediction"] br{
+footer p:first-child br{
 	display: none;
 }
 
-footer p[epub|type~="z3998:valediction"] span:nth-of-type(1){
+footer p:first-child span:nth-of-type(1){
 	padding-left: 2em;
 	text-indent: -1em;
 }
 
-footer p[epub|type~="z3998:valediction"] span:nth-of-type(2){
+footer p:first-child span:nth-of-type(2){
 	padding-left: 3em;
 	text-indent: -1em;
 }
 
-footer p[epub|type~="z3998:valediction"] span:nth-of-type(3){
+footer p:first-child span:nth-of-type(3){
 	padding-left: 4em;
 	text-indent: -1em;
 }
