@@ -117,13 +117,17 @@ header{
 	font-variant: small-caps;
 }
 
-[epub|type~="z3998:salutation"] + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 	text-align: right;
+}
+
+#dedication > p:first-of-type{
+	font-variant: small-caps;
+}
+
+#dedication > p:first-of-type + p{
+	text-indent: 0;
 }
 /* End Dedication */
 
