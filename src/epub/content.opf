@@ -44,7 +44,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/383</dc:source>
 		<dc:source>https://archive.org/details/shestoopstoconq00goldgoog</dc:source>
 		<meta property="se:production-notes">The epilogues were added from the scans and the text update to also match.</meta>
-		<meta property="se:word-count">24045</meta>
+		<meta property="se:word-count">23425</meta>
 		<meta property="se:reading-ease.flesch">76.42</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/She_Stoops_to_Conquer</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/oliver-goldsmith_she-stoops-to-conquer</meta>
